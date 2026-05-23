@@ -236,5 +236,5 @@ Possible future improvements include:
 - adding datasets into a dedicated `data/` folder where appropriate
 - converting selected examples into reusable Python scripts
 
-## Author
+#### Credit
 Credit @Codebasics; DavePatel
